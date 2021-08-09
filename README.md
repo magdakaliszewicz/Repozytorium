@@ -16,4 +16,3 @@ Wydruk ( d , k ) ;
 
 return 0 ;
 }
-  end
